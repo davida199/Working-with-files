@@ -1,0 +1,13 @@
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.exe
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.deps.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.runtimeconfig.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.runtimeconfig.dev.json
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\bin\Debug\netcoreapp3.1\Fixação.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.csproj.AssemblyReference.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.AssemblyInfoInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.AssemblyInfo.cs
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.csproj.CoreCompileInputs.cache
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.dll
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.pdb
+C:\Users\davyd\Desktop\ws - vs 2019\seçao 13\Fixação\Fixação\obj\Debug\netcoreapp3.1\Fixação.genruntimeconfig.cache
